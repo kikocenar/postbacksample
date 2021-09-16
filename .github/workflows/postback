@@ -1,6 +1,6 @@
 <?php
-define('MERCHANT_ID', 'Put merchant id here');
-define('MERCHANT_PASSWORD', 'Put merchant password here');
+define('MERCHANT_ID', 'TESTKIKO');
+define('MERCHANT_PASSWORD', '9wuAMRHfoa5KMDP');
 include('conn.php');
 
 //response
